@@ -1,0 +1,9 @@
+#
+
+Frontend/React-frontend/node_modules/
+Backend/node_modules
+
+*.log
+
+.env
+
