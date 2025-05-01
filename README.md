@@ -6,7 +6,7 @@ The **ClipboardManager** is a cross platform application that allows you to trac
 ## How to use
 
 ### Build and Run
- - After cloning he repository , open the **Clipboard-Manager** colution in VS Code.
+ - After cloning he repository , open the **Clipboard-Manager** solution in VS Code.
  - npm install then run the project.
 
 ```bash
