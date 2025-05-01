@@ -1,7 +1,7 @@
 # Clipboard-Manager
 
 ## Overview
-The **ClipboardManager** is a cross platform application that allows you to track, store, and manage your clipboard history. Users can view previously copied text , reuse it, or clear the history. This tool is perfect for those who want an easy way to manage their clipboard contents.
+The **Clipboard-Manager** is a cross platform application that allows you to track, store, and manage your clipboard history. Users can view previously copied text , reuse it, or clear the history. This tool is perfect for those who want an easy way to manage their clipboard contents.
 
 ## How to use
 
@@ -12,3 +12,12 @@ The **ClipboardManager** is a cross platform application that allows you to trac
 ```bash
 cd Clipboard-Manager
 npm run start
+```
+
+## FrontEnd
+![Frontend Screenshot] (SampleImage.png)
+
+
+## Thank You
+I hope this project helps you manage your clipboard history easily.
+Thank you for using **Clipboard-Manager**
