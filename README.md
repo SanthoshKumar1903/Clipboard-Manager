@@ -15,7 +15,7 @@ npm run start
 ```
 
 ## FrontEnd
-![Frontend Screenshot] (SampleImage.png)
+![Frontend Screenshot](SampleImage.png)
 
 
 ## Thank You
